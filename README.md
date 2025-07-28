@@ -55,12 +55,12 @@ make
 ```
 and load the module by running (as a root)
 ```
-insmod aquacomputer-quadro.ko
+insmod aquacomputer-octo.ko
 ```
 
 To remove the module simply run
 ```
-rmmod aquacomputer-quadro.ko
+rmmod aquacomputer-octo.ko
 ```
 
 
